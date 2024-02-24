@@ -14,3 +14,11 @@ body {
   color: rgba(245, 245, 245, 0.979);
   background-color: rgba(0, 0, 0, 0.932);
 }
+
+/*Layout*/
+
+header {
+  position: relative;
+  height: 35vh;
+  border-bottom: 6px solid rgba(245, 245, 245, 0.979);
+}
